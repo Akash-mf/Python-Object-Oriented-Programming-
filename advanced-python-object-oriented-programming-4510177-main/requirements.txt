@@ -1,3 +1,0 @@
-mypy ~= 1.5
-
-jupyter ~= 1.0  # For VSCode
